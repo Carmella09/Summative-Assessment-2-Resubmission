@@ -1,4 +1,4 @@
-# Summative-Assessment-2-Retake
+# Summative-Assessment-2-Resubmission
 
     #include<iostream>
     #include<string>
